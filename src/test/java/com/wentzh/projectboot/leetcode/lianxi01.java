@@ -8,6 +8,7 @@ public class lianxi01 {
         for (int i = 3; i <= M; i++) {
             f = f2;
             f2 = f1 + f2;
+
             f1 = f;
             System.out.println("第" + i + "个月的兔子对数: " + f2);
         }
