@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjectBootApplication {
 
     /*@RequestMapping("index")
-
     public String index(){
         return "hello world!";
     }*/
