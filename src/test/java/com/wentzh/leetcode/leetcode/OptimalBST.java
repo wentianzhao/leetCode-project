@@ -1,4 +1,4 @@
-package com.wentzh.projectboot.leetcode;
+package com.wentzh.leetcode.leetcode;
  
 import java.util.Scanner;
  

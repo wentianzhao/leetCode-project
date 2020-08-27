@@ -1,4 +1,4 @@
-package com.wentzh.projectboot.leetcode;
+package com.wentzh.leetcode.leetcode;
 
 public class lianxi01 {
     public static void main(String[] args) {
